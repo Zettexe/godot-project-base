@@ -10,7 +10,7 @@ config_version=4
 
 [application]
 
-config/name="Untitled Deer Based Platformer"
+config/name="Godot Project Base"
 run/main_scene="res://Game.tscn"
 config/icon="res://icon.png"
 
